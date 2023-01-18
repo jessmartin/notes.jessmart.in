@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https:///notes.jessmart.in/*"
+  from = "https://notes.jessmart.in/*"
   to = "https://publish.obsidian.md/serve?url=notes.jessmart.in/:splat"
   status = 200
   force = true
